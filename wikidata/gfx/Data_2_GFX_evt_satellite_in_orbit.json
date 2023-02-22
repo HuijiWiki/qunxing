@@ -1,0 +1,1 @@
+{"key": "GFX_evt_satellite_in_orbit", "name": "GFX_evt_satellite_in_orbit", "textureFile": "satellite_in_orbit", "masking_texture": "gfx/interface/situation_log/event_mask.dds", "alwaystransparent": "yes", "_index": 666}

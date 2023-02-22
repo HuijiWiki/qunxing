@@ -1,0 +1,1 @@
+{"key": "GFX_evt_asteroid_approaching_planet", "name": "GFX_evt_asteroid_approaching_planet", "textureFile": "asteroid_approaching_planet", "masking_texture": "gfx/interface/situation_log/event_mask.dds", "alwaystransparent": "yes", "_index": 672}

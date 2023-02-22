@@ -1,0 +1,1 @@
+{"key": "GFX_evt_ship_under_attack", "name": "GFX_evt_ship_under_attack", "textureFile": "ship_in_orbit", "masking_texture": "gfx/interface/situation_log/event_mask.dds", "alwaystransparent": "yes", "_index": 668}
